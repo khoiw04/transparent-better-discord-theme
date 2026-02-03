@@ -9,6 +9,6 @@
 </div>
 
 ---
-> [!TUTORIAL]
-> You can read [this article](https://www.reddit.com/r/BetterDiscord/comments/1065blb/using_mica_for_everyone_for_transparent_discord/) and follow the steps
-> Then install my theme
+> [TUTORIAL]
+> TL;DR: You can read [this article](https://www.reddit.com/r/BetterDiscord/comments/1065blb/using_mica_for_everyone_for_transparent_discord/) and follow the steps.
+> Then install my theme.
